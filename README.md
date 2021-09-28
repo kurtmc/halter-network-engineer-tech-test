@@ -16,7 +16,7 @@ firewall. The python files of interest are:
 ### Accessing the tools required
 
 ```
-ssh arch@13.211.253.242
+ssh arch@13.211.229.239
 
 # first start the firewall
 ./start_firewall.sh
